@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "express": "^4.15.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melymelm/FriendFinder.git"
+  },
+  "author": "mm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melymelm/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/melymelm/FriendFinder#readme"
+}
